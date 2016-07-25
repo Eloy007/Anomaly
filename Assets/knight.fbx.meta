@@ -1,0 +1,1144 @@
+fileFormatVersion: 2
+guid: 53c0cb938016162448f907c10f44e7ab
+timeCreated: 1469005920
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ankle_l
+    100002: ankle_l_end
+    100004: ankle_r
+    100006: ankle_r_end
+    100008: arm_pole_l
+    100010: arm_pole_l_end
+    100012: arm_pole_r
+    100014: arm_pole_r_end
+    100016: Armature
+    100018: ball_ctrl_l
+    100020: ball_ctrl_r
+    100022: body_ctrl
+    100024: Camera
+    100026: finger_ctrl_l
+    100028: finger_ctrl_r
+    100030: finger_ik_l
+    100032: finger_ik_l_end
+    100034: finger_ik_r
+    100036: finger_ik_r_end
+    100038: fingers_l
+    100040: fingers_l_end
+    100042: fingers_r
+    100044: fingers_r_end
+    100046: foot_ctrl_l
+    100048: foot_ctrl_r
+    100050: foot_l
+    100052: foot_r
+    100054: global
+    100056: hand_ctrl_l
+    100058: hand_ctrl_r
+    100060: hand_ik_l
+    100062: hand_ik_l_end
+    100064: hand_ik_r
+    100066: hand_ik_r_end
+    100068: knee_pole_l
+    100070: knee_pole_l_end
+    100072: knee_pole_r
+    100074: knee_pole_r_end
+    100076: Knight
+    100078: //RootNode
+    100080: Lamp
+    100082: lower_arm_l
+    100084: lower_arm_r
+    100086: neck
+    100088: palm_l
+    100090: palm_r
+    100092: pelvis
+    100094: shield
+    100096: shield_end
+    100098: shin_l
+    100100: shin_r
+    100102: skull
+    100104: skull_end
+    100106: spine_1
+    100108: spine_2
+    100110: spine_3
+    100112: sword
+    100114: sword_casing
+    100116: sword_casing_end
+    100118: sword_end
+    100120: thigh_l
+    100122: thigh_r
+    100124: thumb_l
+    100126: thumb_l_end
+    100128: thumb_r
+    100130: thumb_r_end
+    100132: toe_ctrl_l
+    100134: toe_ctrl_l_end
+    100136: toe_ctrl_r
+    100138: toe_ctrl_r_end
+    100140: toes_l
+    100142: toes_l_end
+    100144: toes_r
+    100146: toes_r_end
+    100148: torso_ctrl
+    100150: upper_arm_l
+    100152: upper_arm_r
+    400000: ankle_l
+    400002: ankle_l_end
+    400004: ankle_r
+    400006: ankle_r_end
+    400008: arm_pole_l
+    400010: arm_pole_l_end
+    400012: arm_pole_r
+    400014: arm_pole_r_end
+    400016: Armature
+    400018: ball_ctrl_l
+    400020: ball_ctrl_r
+    400022: body_ctrl
+    400024: Camera
+    400026: finger_ctrl_l
+    400028: finger_ctrl_r
+    400030: finger_ik_l
+    400032: finger_ik_l_end
+    400034: finger_ik_r
+    400036: finger_ik_r_end
+    400038: fingers_l
+    400040: fingers_l_end
+    400042: fingers_r
+    400044: fingers_r_end
+    400046: foot_ctrl_l
+    400048: foot_ctrl_r
+    400050: foot_l
+    400052: foot_r
+    400054: global
+    400056: hand_ctrl_l
+    400058: hand_ctrl_r
+    400060: hand_ik_l
+    400062: hand_ik_l_end
+    400064: hand_ik_r
+    400066: hand_ik_r_end
+    400068: knee_pole_l
+    400070: knee_pole_l_end
+    400072: knee_pole_r
+    400074: knee_pole_r_end
+    400076: Knight
+    400078: //RootNode
+    400080: Lamp
+    400082: lower_arm_l
+    400084: lower_arm_r
+    400086: neck
+    400088: palm_l
+    400090: palm_r
+    400092: pelvis
+    400094: shield
+    400096: shield_end
+    400098: shin_l
+    400100: shin_r
+    400102: skull
+    400104: skull_end
+    400106: spine_1
+    400108: spine_2
+    400110: spine_3
+    400112: sword
+    400114: sword_casing
+    400116: sword_casing_end
+    400118: sword_end
+    400120: thigh_l
+    400122: thigh_r
+    400124: thumb_l
+    400126: thumb_l_end
+    400128: thumb_r
+    400130: thumb_r_end
+    400132: toe_ctrl_l
+    400134: toe_ctrl_l_end
+    400136: toe_ctrl_r
+    400138: toe_ctrl_r_end
+    400140: toes_l
+    400142: toes_l_end
+    400144: toes_r
+    400146: toes_r_end
+    400148: torso_ctrl
+    400150: upper_arm_l
+    400152: upper_arm_r
+    4300000: Knight
+    7400000: Armature|Attack
+    7400002: Armature|Damaged
+    7400004: Armature|Die
+    7400006: Armature|Idle
+    7400008: Armature|Walk
+    7400010: Knight|Idle
+    9500000: //RootNode
+    13700000: Knight
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Damaged
+      takeName: Armature|Damaged
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/global
+        weight: 1
+      - path: Armature/global/body_ctrl
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/sword_casing
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/sword_casing/sword_casing_end
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_l
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_l/shin_l
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_l/shin_l/foot_l
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_l/shin_l/foot_l/toes_l
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_l/shin_l/foot_l/toes_l/toes_l_end
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_r
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_r/shin_r
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_r/shin_r/foot_r
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_r/shin_r/foot_r/toes_r
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_r/shin_r/foot_r/toes_r/toes_r_end
+        weight: 1
+      - path: Armature/global/body_ctrl/spine_1
+        weight: 1
+      - path: Armature/global/body_ctrl/spine_1/spine_2
+        weight: 1
+      - path: Armature/global/body_ctrl/spine_1/spine_2/spine_3
+        weight: 1
+      - path: Armature/global/body_ctrl/spine_1/spine_2/spine_3/neck
+        weight: 1
+      - path: Armature/global/body_ctrl/spine_1/spine_2/spine_3/neck/skull
+        weight: 1
+      - path: Armature/global/body_ctrl/spine_1/spine_2/spine_3/neck/skull/skull_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/arm_pole_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/arm_pole_l/arm_pole_l_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/arm_pole_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/arm_pole_r/arm_pole_r_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/finger_ctrl_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/finger_ctrl_l/finger_ik_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/finger_ctrl_l/finger_ik_l/finger_ik_l_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/hand_ik_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/hand_ik_l/hand_ik_l_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/shield
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/shield/shield_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/thumb_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/thumb_l/thumb_l_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/finger_ctrl_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/finger_ctrl_r/finger_ik_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/finger_ctrl_r/finger_ik_r/finger_ik_r_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/hand_ik_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/hand_ik_r/hand_ik_r_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/sword
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/sword/sword_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/thumb_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/thumb_r/thumb_r_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_l/lower_arm_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_l/lower_arm_l/palm_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_l/lower_arm_l/palm_l/fingers_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_l/lower_arm_l/palm_l/fingers_l/fingers_l_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_r/lower_arm_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_r/lower_arm_r/palm_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_r/lower_arm_r/palm_r/fingers_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_r/lower_arm_r/palm_r/fingers_r/fingers_r_end
+        weight: 1
+      - path: Armature/global/foot_ctrl_l
+        weight: 1
+      - path: Armature/global/foot_ctrl_l/ball_ctrl_l
+        weight: 1
+      - path: Armature/global/foot_ctrl_l/ball_ctrl_l/ankle_l
+        weight: 1
+      - path: Armature/global/foot_ctrl_l/ball_ctrl_l/ankle_l/ankle_l_end
+        weight: 1
+      - path: Armature/global/foot_ctrl_l/toe_ctrl_l
+        weight: 1
+      - path: Armature/global/foot_ctrl_l/toe_ctrl_l/toe_ctrl_l_end
+        weight: 1
+      - path: Armature/global/foot_ctrl_r
+        weight: 1
+      - path: Armature/global/foot_ctrl_r/ball_ctrl_r
+        weight: 1
+      - path: Armature/global/foot_ctrl_r/ball_ctrl_r/ankle_r
+        weight: 1
+      - path: Armature/global/foot_ctrl_r/ball_ctrl_r/ankle_r/ankle_r_end
+        weight: 1
+      - path: Armature/global/foot_ctrl_r/toe_ctrl_r
+        weight: 1
+      - path: Armature/global/foot_ctrl_r/toe_ctrl_r/toe_ctrl_r_end
+        weight: 1
+      - path: Armature/global/knee_pole_l
+        weight: 1
+      - path: Armature/global/knee_pole_l/knee_pole_l_end
+        weight: 1
+      - path: Armature/global/knee_pole_r
+        weight: 1
+      - path: Armature/global/knee_pole_r/knee_pole_r_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Knight
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Die
+      takeName: Armature|Die
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/global
+        weight: 1
+      - path: Armature/global/body_ctrl
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/sword_casing
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/sword_casing/sword_casing_end
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_l
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_l/shin_l
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_l/shin_l/foot_l
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_l/shin_l/foot_l/toes_l
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_l/shin_l/foot_l/toes_l/toes_l_end
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_r
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_r/shin_r
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_r/shin_r/foot_r
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_r/shin_r/foot_r/toes_r
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_r/shin_r/foot_r/toes_r/toes_r_end
+        weight: 1
+      - path: Armature/global/body_ctrl/spine_1
+        weight: 1
+      - path: Armature/global/body_ctrl/spine_1/spine_2
+        weight: 1
+      - path: Armature/global/body_ctrl/spine_1/spine_2/spine_3
+        weight: 1
+      - path: Armature/global/body_ctrl/spine_1/spine_2/spine_3/neck
+        weight: 1
+      - path: Armature/global/body_ctrl/spine_1/spine_2/spine_3/neck/skull
+        weight: 1
+      - path: Armature/global/body_ctrl/spine_1/spine_2/spine_3/neck/skull/skull_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/arm_pole_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/arm_pole_l/arm_pole_l_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/arm_pole_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/arm_pole_r/arm_pole_r_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/finger_ctrl_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/finger_ctrl_l/finger_ik_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/finger_ctrl_l/finger_ik_l/finger_ik_l_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/hand_ik_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/hand_ik_l/hand_ik_l_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/shield
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/shield/shield_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/thumb_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/thumb_l/thumb_l_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/finger_ctrl_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/finger_ctrl_r/finger_ik_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/finger_ctrl_r/finger_ik_r/finger_ik_r_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/hand_ik_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/hand_ik_r/hand_ik_r_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/sword
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/sword/sword_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/thumb_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/thumb_r/thumb_r_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_l/lower_arm_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_l/lower_arm_l/palm_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_l/lower_arm_l/palm_l/fingers_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_l/lower_arm_l/palm_l/fingers_l/fingers_l_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_r/lower_arm_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_r/lower_arm_r/palm_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_r/lower_arm_r/palm_r/fingers_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_r/lower_arm_r/palm_r/fingers_r/fingers_r_end
+        weight: 1
+      - path: Armature/global/foot_ctrl_l
+        weight: 1
+      - path: Armature/global/foot_ctrl_l/ball_ctrl_l
+        weight: 1
+      - path: Armature/global/foot_ctrl_l/ball_ctrl_l/ankle_l
+        weight: 1
+      - path: Armature/global/foot_ctrl_l/ball_ctrl_l/ankle_l/ankle_l_end
+        weight: 1
+      - path: Armature/global/foot_ctrl_l/toe_ctrl_l
+        weight: 1
+      - path: Armature/global/foot_ctrl_l/toe_ctrl_l/toe_ctrl_l_end
+        weight: 1
+      - path: Armature/global/foot_ctrl_r
+        weight: 1
+      - path: Armature/global/foot_ctrl_r/ball_ctrl_r
+        weight: 1
+      - path: Armature/global/foot_ctrl_r/ball_ctrl_r/ankle_r
+        weight: 1
+      - path: Armature/global/foot_ctrl_r/ball_ctrl_r/ankle_r/ankle_r_end
+        weight: 1
+      - path: Armature/global/foot_ctrl_r/toe_ctrl_r
+        weight: 1
+      - path: Armature/global/foot_ctrl_r/toe_ctrl_r/toe_ctrl_r_end
+        weight: 1
+      - path: Armature/global/knee_pole_l
+        weight: 1
+      - path: Armature/global/knee_pole_l/knee_pole_l_end
+        weight: 1
+      - path: Armature/global/knee_pole_r
+        weight: 1
+      - path: Armature/global/knee_pole_r/knee_pole_r_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Knight
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Idle
+      takeName: Armature|Idle
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/global
+        weight: 1
+      - path: Armature/global/body_ctrl
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/sword_casing
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/sword_casing/sword_casing_end
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_l
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_l/shin_l
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_l/shin_l/foot_l
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_l/shin_l/foot_l/toes_l
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_l/shin_l/foot_l/toes_l/toes_l_end
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_r
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_r/shin_r
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_r/shin_r/foot_r
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_r/shin_r/foot_r/toes_r
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_r/shin_r/foot_r/toes_r/toes_r_end
+        weight: 1
+      - path: Armature/global/body_ctrl/spine_1
+        weight: 1
+      - path: Armature/global/body_ctrl/spine_1/spine_2
+        weight: 1
+      - path: Armature/global/body_ctrl/spine_1/spine_2/spine_3
+        weight: 1
+      - path: Armature/global/body_ctrl/spine_1/spine_2/spine_3/neck
+        weight: 1
+      - path: Armature/global/body_ctrl/spine_1/spine_2/spine_3/neck/skull
+        weight: 1
+      - path: Armature/global/body_ctrl/spine_1/spine_2/spine_3/neck/skull/skull_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/arm_pole_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/arm_pole_l/arm_pole_l_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/arm_pole_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/arm_pole_r/arm_pole_r_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/finger_ctrl_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/finger_ctrl_l/finger_ik_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/finger_ctrl_l/finger_ik_l/finger_ik_l_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/hand_ik_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/hand_ik_l/hand_ik_l_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/shield
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/shield/shield_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/thumb_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/thumb_l/thumb_l_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/finger_ctrl_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/finger_ctrl_r/finger_ik_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/finger_ctrl_r/finger_ik_r/finger_ik_r_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/hand_ik_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/hand_ik_r/hand_ik_r_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/sword
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/sword/sword_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/thumb_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/thumb_r/thumb_r_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_l/lower_arm_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_l/lower_arm_l/palm_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_l/lower_arm_l/palm_l/fingers_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_l/lower_arm_l/palm_l/fingers_l/fingers_l_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_r/lower_arm_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_r/lower_arm_r/palm_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_r/lower_arm_r/palm_r/fingers_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_r/lower_arm_r/palm_r/fingers_r/fingers_r_end
+        weight: 1
+      - path: Armature/global/foot_ctrl_l
+        weight: 1
+      - path: Armature/global/foot_ctrl_l/ball_ctrl_l
+        weight: 1
+      - path: Armature/global/foot_ctrl_l/ball_ctrl_l/ankle_l
+        weight: 1
+      - path: Armature/global/foot_ctrl_l/ball_ctrl_l/ankle_l/ankle_l_end
+        weight: 1
+      - path: Armature/global/foot_ctrl_l/toe_ctrl_l
+        weight: 1
+      - path: Armature/global/foot_ctrl_l/toe_ctrl_l/toe_ctrl_l_end
+        weight: 1
+      - path: Armature/global/foot_ctrl_r
+        weight: 1
+      - path: Armature/global/foot_ctrl_r/ball_ctrl_r
+        weight: 1
+      - path: Armature/global/foot_ctrl_r/ball_ctrl_r/ankle_r
+        weight: 1
+      - path: Armature/global/foot_ctrl_r/ball_ctrl_r/ankle_r/ankle_r_end
+        weight: 1
+      - path: Armature/global/foot_ctrl_r/toe_ctrl_r
+        weight: 1
+      - path: Armature/global/foot_ctrl_r/toe_ctrl_r/toe_ctrl_r_end
+        weight: 1
+      - path: Armature/global/knee_pole_l
+        weight: 1
+      - path: Armature/global/knee_pole_l/knee_pole_l_end
+        weight: 1
+      - path: Armature/global/knee_pole_r
+        weight: 1
+      - path: Armature/global/knee_pole_r/knee_pole_r_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Knight
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Walk
+      takeName: Armature|Walk
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/global
+        weight: 1
+      - path: Armature/global/body_ctrl
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/sword_casing
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/sword_casing/sword_casing_end
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_l
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_l/shin_l
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_l/shin_l/foot_l
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_l/shin_l/foot_l/toes_l
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_l/shin_l/foot_l/toes_l/toes_l_end
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_r
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_r/shin_r
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_r/shin_r/foot_r
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_r/shin_r/foot_r/toes_r
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_r/shin_r/foot_r/toes_r/toes_r_end
+        weight: 1
+      - path: Armature/global/body_ctrl/spine_1
+        weight: 1
+      - path: Armature/global/body_ctrl/spine_1/spine_2
+        weight: 1
+      - path: Armature/global/body_ctrl/spine_1/spine_2/spine_3
+        weight: 1
+      - path: Armature/global/body_ctrl/spine_1/spine_2/spine_3/neck
+        weight: 1
+      - path: Armature/global/body_ctrl/spine_1/spine_2/spine_3/neck/skull
+        weight: 1
+      - path: Armature/global/body_ctrl/spine_1/spine_2/spine_3/neck/skull/skull_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/arm_pole_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/arm_pole_l/arm_pole_l_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/arm_pole_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/arm_pole_r/arm_pole_r_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/finger_ctrl_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/finger_ctrl_l/finger_ik_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/finger_ctrl_l/finger_ik_l/finger_ik_l_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/hand_ik_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/hand_ik_l/hand_ik_l_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/shield
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/shield/shield_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/thumb_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/thumb_l/thumb_l_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/finger_ctrl_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/finger_ctrl_r/finger_ik_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/finger_ctrl_r/finger_ik_r/finger_ik_r_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/hand_ik_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/hand_ik_r/hand_ik_r_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/sword
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/sword/sword_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/thumb_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/thumb_r/thumb_r_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_l/lower_arm_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_l/lower_arm_l/palm_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_l/lower_arm_l/palm_l/fingers_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_l/lower_arm_l/palm_l/fingers_l/fingers_l_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_r/lower_arm_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_r/lower_arm_r/palm_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_r/lower_arm_r/palm_r/fingers_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_r/lower_arm_r/palm_r/fingers_r/fingers_r_end
+        weight: 1
+      - path: Armature/global/foot_ctrl_l
+        weight: 1
+      - path: Armature/global/foot_ctrl_l/ball_ctrl_l
+        weight: 1
+      - path: Armature/global/foot_ctrl_l/ball_ctrl_l/ankle_l
+        weight: 1
+      - path: Armature/global/foot_ctrl_l/ball_ctrl_l/ankle_l/ankle_l_end
+        weight: 1
+      - path: Armature/global/foot_ctrl_l/toe_ctrl_l
+        weight: 1
+      - path: Armature/global/foot_ctrl_l/toe_ctrl_l/toe_ctrl_l_end
+        weight: 1
+      - path: Armature/global/foot_ctrl_r
+        weight: 1
+      - path: Armature/global/foot_ctrl_r/ball_ctrl_r
+        weight: 1
+      - path: Armature/global/foot_ctrl_r/ball_ctrl_r/ankle_r
+        weight: 1
+      - path: Armature/global/foot_ctrl_r/ball_ctrl_r/ankle_r/ankle_r_end
+        weight: 1
+      - path: Armature/global/foot_ctrl_r/toe_ctrl_r
+        weight: 1
+      - path: Armature/global/foot_ctrl_r/toe_ctrl_r/toe_ctrl_r_end
+        weight: 1
+      - path: Armature/global/knee_pole_l
+        weight: 1
+      - path: Armature/global/knee_pole_l/knee_pole_l_end
+        weight: 1
+      - path: Armature/global/knee_pole_r
+        weight: 1
+      - path: Armature/global/knee_pole_r/knee_pole_r_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Knight
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Knight|Idle
+      takeName: Knight|Idle
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/global
+        weight: 1
+      - path: Armature/global/body_ctrl
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/sword_casing
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/sword_casing/sword_casing_end
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_l
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_l/shin_l
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_l/shin_l/foot_l
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_l/shin_l/foot_l/toes_l
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_l/shin_l/foot_l/toes_l/toes_l_end
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_r
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_r/shin_r
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_r/shin_r/foot_r
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_r/shin_r/foot_r/toes_r
+        weight: 1
+      - path: Armature/global/body_ctrl/pelvis/thigh_r/shin_r/foot_r/toes_r/toes_r_end
+        weight: 1
+      - path: Armature/global/body_ctrl/spine_1
+        weight: 1
+      - path: Armature/global/body_ctrl/spine_1/spine_2
+        weight: 1
+      - path: Armature/global/body_ctrl/spine_1/spine_2/spine_3
+        weight: 1
+      - path: Armature/global/body_ctrl/spine_1/spine_2/spine_3/neck
+        weight: 1
+      - path: Armature/global/body_ctrl/spine_1/spine_2/spine_3/neck/skull
+        weight: 1
+      - path: Armature/global/body_ctrl/spine_1/spine_2/spine_3/neck/skull/skull_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/arm_pole_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/arm_pole_l/arm_pole_l_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/arm_pole_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/arm_pole_r/arm_pole_r_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/finger_ctrl_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/finger_ctrl_l/finger_ik_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/finger_ctrl_l/finger_ik_l/finger_ik_l_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/hand_ik_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/hand_ik_l/hand_ik_l_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/shield
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/shield/shield_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/thumb_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_l/thumb_l/thumb_l_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/finger_ctrl_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/finger_ctrl_r/finger_ik_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/finger_ctrl_r/finger_ik_r/finger_ik_r_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/hand_ik_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/hand_ik_r/hand_ik_r_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/sword
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/sword/sword_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/thumb_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/hand_ctrl_r/thumb_r/thumb_r_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_l/lower_arm_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_l/lower_arm_l/palm_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_l/lower_arm_l/palm_l/fingers_l
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_l/lower_arm_l/palm_l/fingers_l/fingers_l_end
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_r/lower_arm_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_r/lower_arm_r/palm_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_r/lower_arm_r/palm_r/fingers_r
+        weight: 1
+      - path: Armature/global/body_ctrl/torso_ctrl/upper_arm_r/lower_arm_r/palm_r/fingers_r/fingers_r_end
+        weight: 1
+      - path: Armature/global/foot_ctrl_l
+        weight: 1
+      - path: Armature/global/foot_ctrl_l/ball_ctrl_l
+        weight: 1
+      - path: Armature/global/foot_ctrl_l/ball_ctrl_l/ankle_l
+        weight: 1
+      - path: Armature/global/foot_ctrl_l/ball_ctrl_l/ankle_l/ankle_l_end
+        weight: 1
+      - path: Armature/global/foot_ctrl_l/toe_ctrl_l
+        weight: 1
+      - path: Armature/global/foot_ctrl_l/toe_ctrl_l/toe_ctrl_l_end
+        weight: 1
+      - path: Armature/global/foot_ctrl_r
+        weight: 1
+      - path: Armature/global/foot_ctrl_r/ball_ctrl_r
+        weight: 1
+      - path: Armature/global/foot_ctrl_r/ball_ctrl_r/ankle_r
+        weight: 1
+      - path: Armature/global/foot_ctrl_r/ball_ctrl_r/ankle_r/ankle_r_end
+        weight: 1
+      - path: Armature/global/foot_ctrl_r/toe_ctrl_r
+        weight: 1
+      - path: Armature/global/foot_ctrl_r/toe_ctrl_r/toe_ctrl_r_end
+        weight: 1
+      - path: Armature/global/knee_pole_l
+        weight: 1
+      - path: Armature/global/knee_pole_l/knee_pole_l_end
+        weight: 1
+      - path: Armature/global/knee_pole_r
+        weight: 1
+      - path: Armature/global/knee_pole_r/knee_pole_r_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Knight
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.14
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
